@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjustin_csd=self.webpackChunkjustin_csd||[]).push([[6672],{6132:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/justin.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
