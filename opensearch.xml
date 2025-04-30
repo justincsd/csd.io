@@ -4,8 +4,8 @@
   <ShortName>Justin_csd 的博客</ShortName>
   <Description>Search Justin_csd 的博客</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://blog.csd.com/csd.io/img/Main_LOGO.jpg</Image>
-  <Url type="text/html" method="get" template="https://blog.csd.com/csd.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://blog.csd.com/csd.io/opensearch.xml" />
-  <moz:SearchForm>https://blog.csd.com/csd.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://justincsd.github.io/csd.io/img/Main_LOGO.jpg</Image>
+  <Url type="text/html" method="get" template="https://justincsd.github.io/csd.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://justincsd.github.io/csd.io/opensearch.xml" />
+  <moz:SearchForm>https://justincsd.github.io/csd.io/</moz:SearchForm>
 </OpenSearchDescription>
