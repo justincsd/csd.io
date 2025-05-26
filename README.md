@@ -1,9 +1,9 @@
 ### 前言
 你可以克隆我的仓库：
-`gh repo clone justincsd/csd.io`
+`gh repo clone justincsd/csd.io`。
 
 
-[![截屏2025 04 19 19.19.02](https://s1.imagehub.cc/images/2025/04/20/4e89ed052b9e26dda5d47f74fe139fb1.png)](https://www.imagehub.cc/image/%E6%88%AA%E5%B1%8F2025-04-19-19.19.02.InOo5O)
+![截屏2025-05-26 13.26.51.png](https://img.picui.cn/free/2025/05/26/6833fbc900599.png)
 
 # 索引 · 引入
 
