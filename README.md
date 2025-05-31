@@ -2,6 +2,10 @@
 你可以克隆我的仓库：
 `gh repo clone justincsd/csd.io`。
 
+## 重要提示
+自 2025-05-31 开始，最新版的网站内容我可能不会在 Github Pages 上面 Upload 了，会也不会频繁地进行提交，如果有较大规模的更新，我仍然会进行 Github 投递。原因：我部署到了 [Netlify](https://www.netlify.com/)，可能体验更好（上传较快）。网站：https://justincsd.netlify.app。
+
+**减少提交频率不代表淡更/停更，而是为了更为惊喜的再次见面，是为了更新的高效率。**
 
 ![截屏2025-05-26 13.26.51.png](https://img.picui.cn/free/2025/05/26/6833fbc900599.png)
 
