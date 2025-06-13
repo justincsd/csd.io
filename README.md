@@ -5,8 +5,7 @@
 ## 重要提示
 Netlify 的网站需要进行 Algolia 的修改。
 
-![截屏2025-05-26 13.26.51.png](https://img.picui.cn/free/2025/05/26/6833fbc900599.png)
-
+![Site_Logo_Main.png](https://img.picui.cn/free/2025/06/13/684c118738dbb.png)
 # 索引 · 引入
 
 ### 欢迎来访问！
